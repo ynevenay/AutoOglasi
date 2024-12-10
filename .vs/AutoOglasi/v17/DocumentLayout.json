@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\wwwroot\\css\\lux.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\wwwroot\\css\\lux.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\services\\carservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\services\\carservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|c:\\fakultet\\microsoft tehnologije za pristup\\autooglasi\\autooglasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4031D3C-1229-440F-A3F9-057719024963}|AutoOglasi\\AutoOglasi.csproj|solutionrelative:autooglasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lux.css",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\wwwroot\\css\\Lux.css",
+              "RelativeDocumentMoniker": "AutoOglasi\\wwwroot\\css\\Lux.css",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\wwwroot\\css\\Lux.css",
+              "RelativeToolTip": "AutoOglasi\\wwwroot\\css\\Lux.css",
+              "ViewState": "AQIAALkAAAAAAAAAAAAAAMkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-15T12:17:58.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\wwwroot\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "AutoOglasi\\wwwroot\\css\\bootstrap.css",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\wwwroot\\css\\bootstrap.css",
+              "RelativeToolTip": "AutoOglasi\\wwwroot\\css\\bootstrap.css",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-15T12:16:29.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AutoOglasi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AutoOglasi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAADfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T12:07:34.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AutoOglasi\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AutoOglasi\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:51:26.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AutoOglasi\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AutoOglasi\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:51:25.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AutoOglasi\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AutoOglasi\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:51:14.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutoOglasi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AutoOglasi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:51:01.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AutoOglasi\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AutoOglasi\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-15T11:50:56.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "AutoOglasi\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Controllers\\CarController.cs",
+              "RelativeToolTip": "AutoOglasi\\Controllers\\CarController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowE8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:34:37.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AutoOglasi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AutoOglasi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:33:46.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AutoOglasi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AutoOglasi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:33:30.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarServices.cs",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Services\\CarServices.cs",
+              "RelativeDocumentMoniker": "AutoOglasi\\Services\\CarServices.cs",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Services\\CarServices.cs",
+              "RelativeToolTip": "AutoOglasi\\Services\\CarServices.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:29:20.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "AutoOglasi\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Services\\UserServices.cs",
+              "RelativeToolTip": "AutoOglasi\\Services\\UserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:29:05.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AutoOglasi\\Models\\User.cs",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Models\\User.cs",
+              "RelativeToolTip": "AutoOglasi\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:24:54.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "AutoOglasi\\Models\\Car.cs",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Models\\Car.cs",
+              "RelativeToolTip": "AutoOglasi\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:24:44.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Startup.cs",
+              "RelativeDocumentMoniker": "AutoOglasi\\Startup.cs",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Startup.cs",
+              "RelativeToolTip": "AutoOglasi\\Startup.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:20:16.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Program.cs",
+              "RelativeDocumentMoniker": "AutoOglasi\\Program.cs",
+              "ToolTip": "C:\\Fakultet\\Microsoft tehnologije za pristup\\AutoOglasi\\AutoOglasi\\Program.cs",
+              "RelativeToolTip": "AutoOglasi\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:14:39.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
